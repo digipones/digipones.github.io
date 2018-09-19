@@ -1,0 +1,87 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+header {
+  padding: 154px 0 100px;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+section {
+  padding: 50px 0px 60px 0px;
+}
+
+.topsection {
+    margin-top: 300px;
+    padding: 25px 15px 15px 15px;
+}
+
+.topmrg {
+    margin-top: 220px;
+}
+
+.headertext {
+    size: 25px;
+}
+
+.opacitybox {
+    padding: 20px;
+    background-color: #9badcc;
+    opacity: 0.9;
+    border-radius: 50px;
+}
+
+.bg-myblue {
+    background-color: #9badcc;
+}
+
+.bg-bluegray {
+    background-color: #ebebf4;
+}
+
+.bg-lightsteelblue {
+	background-color: ghostwhite;
+}
+
+.profilepic {
+	max-height: 250px;
+	max-width: 250px;
+	float: left;
+    padding: 10px 15px 10px 10px;
+	border-radius: 50px;
+}
+
+
+.tallsection {
+	padding-top: 200px;
+	padding-bottom: 200px;
+}
+
+.lefttext {
+	float: right;
+}
+
+.overbg {
+    height: auto;
+    width: auto;
+    padding: 50px 0px 50px 0px;
+}
+.bg-main {
+  	background-image: url(../img/dyna.jpg);
+    height: auto;
+    width: auto;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
